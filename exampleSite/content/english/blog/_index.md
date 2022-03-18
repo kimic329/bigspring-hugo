@@ -1,5 +1,5 @@
 ---
-title: Latest Newskimi
+title: Latest News
 subtitle: ''
 description: This is meta description
 
