@@ -26,7 +26,7 @@ icon = "fab fa-twitter"
 link = "https://www.instagram.com/kimic.foto/"
 title = "Instagram"
 [[social]]
-icon = "fab fa-skype"
+icon = "simple-icons:linktree"
 link = "#"
 title = "skype"
 [[social]]
