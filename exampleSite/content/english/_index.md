@@ -98,8 +98,8 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact/
-title: KimiChan Studio
-description: "- A Hong Kong Multimedia Designer"
+title: KimiChan Studio - A Hong Kong Multimedia Designer
+description: ''
 subtitle: A Hong Kong Multimedia Designer
 
 ---
