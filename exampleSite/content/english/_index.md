@@ -98,7 +98,7 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact/
-title: I am Kimi Chan
+title: ''
 draft: true
 
 ---
