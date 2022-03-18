@@ -100,5 +100,6 @@ call_to_action:
     link: contact/
 title: KimiChan Studio
 description: "- A Hong Kong Multimedia Designer"
+subtitle: A Hong Kong Multimedia Designer
 
 ---
