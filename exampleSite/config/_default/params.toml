@@ -19,10 +19,10 @@ enable = false
 preloader = ""
 [[social]]
 icon = "fab fa-facebook"
-link = "#https://www.facebook.com/kimic.foto"
+link = "https://www.facebook.com/kimic.foto"
 title = "facebook"
 [[social]]
-icon = "fa-brands fa-instagram-square"
+icon = "fab fa-instagram"
 link = "https://www.instagram.com/kimic.foto/"
 title = "Instagram"
 [[social]]
