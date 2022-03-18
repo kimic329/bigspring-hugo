@@ -27,5 +27,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros,
 2. comments that threaten or harm the reputation of any person or organization
 3. personal information including, but  limited to, email addresses, telephone numbers
 4. Any Update come in The technology  Customer will get automatic  Notification.
-
-\[!\[Import this project into Forestry\]([https://assets.forestry.io/import-to-forestry.svg](https://assets.forestry.io/import-to-forestry.svg "https://assets.forestry.io/import-to-forestry.svg"))\]([https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&engine=jekyll](https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&engine=jekyll "https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&engine=jekyll"))
