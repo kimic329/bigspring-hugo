@@ -22,7 +22,7 @@ icon = "fab fa-facebook"
 link = "#https://www.facebook.com/kimic.foto"
 title = "facebook"
 [[social]]
-icon = "fa-brands fa-instagram"
+icon = "fa-brands fa-instagram-square"
 link = "https://www.instagram.com/kimic.foto/"
 title = "Instagram"
 [[social]]
