@@ -28,4 +28,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros,
 3. personal information including, but  limited to, email addresses, telephone numbers
 4. Any Update come in The technology  Customer will get automatic  Notification.
 
-<a href="[https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&engine=jekyll](https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&engine=jekyll "https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&engine=jekyll")"> <img alt="Import this project into Forestry" src="[https://assets.forestry.io/import-to-forestry.svg](https://assets.forestry.io/import-to-forestry.svg "https://assets.forestry.io/import-to-forestry.svg")" /> </a>
+\[!\[Import this project into Forestry\]([https://assets.forestry.io/import-to-forestry.svg](https://assets.forestry.io/import-to-forestry.svg "https://assets.forestry.io/import-to-forestry.svg"))\]([https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&engine=jekyll](https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&engine=jekyll "https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&engine=jekyll"))
