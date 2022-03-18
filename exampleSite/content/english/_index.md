@@ -99,5 +99,6 @@ call_to_action:
     label: Contact Us
     link: contact/
 title: KimiChan Studio
+description: "- A Hong Kong Multimedia Designer"
 
 ---
