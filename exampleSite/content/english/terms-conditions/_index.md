@@ -28,4 +28,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros,
 3. personal information including, but  limited to, email addresses, telephone numbers
 4. Any Update come in The technology  Customer will get automatic  Notification.
 
+>     center
+
 ![](/images/service-2.png)
