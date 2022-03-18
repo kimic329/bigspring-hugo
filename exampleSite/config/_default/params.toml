@@ -23,8 +23,8 @@ link = "#https://www.facebook.com/kimic.foto"
 title = "facebook"
 [[social]]
 icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
+link = "https://www.instagram.com/kimic.foto/"
+title = "Instagram"
 [[social]]
 icon = "fab fa-skype"
 link = "#"
