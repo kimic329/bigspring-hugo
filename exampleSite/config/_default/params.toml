@@ -26,10 +26,6 @@ icon = "fa-brands fa-instagram-square"
 link = "https://www.instagram.com/kimic.foto/"
 title = "Instagram"
 [[social]]
-icon = "<span class=\"iconify\" data-icon=\"simple-icons:linktree\"></span>"
-link = "#"
-title = "Linktree"
-[[social]]
 icon = "fab fa-linkedin"
 link = "https://www.linkedin.com/in/kimi-chan-3ab4ab211/"
 title = "linkedin"
